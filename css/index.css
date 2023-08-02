@@ -9,8 +9,10 @@
 @import "./playlist-a.css";
 @import "./playlist-b.css";
 @import "./playlist-list.css";
+@import "./search.css";
 
 :root { 
+  font-size: 16px;
   --gray10: #b3b3b3; 
   --gray20: #737373; 
   --gray30: #282828; 
