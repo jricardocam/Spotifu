@@ -1,4 +1,5 @@
-
+@import "./playlist-a.css";
+@import "./playlist-b.css";
 .playlistList-container{
     display: flex;
     overflow-x: auto;
